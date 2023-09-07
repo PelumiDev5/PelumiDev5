@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PelumiDev5
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning HTML, CSS and Javascript| Java| Oracle Database development| PL/SQL| Linux Operating System. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Software Deveopment projects and Frontend web development.
 - 📫 How to reach me powoshagba@gmail.com
 
 <!---
